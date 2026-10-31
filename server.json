@@ -22,7 +22,7 @@
   "packages": [
     {
       "fileSha256": "4c8abf6cfdfd7ab20e91a343f488a0a83bfc41a7b9f25e8e3b1e7350d99b6fb4",
-      "identifier": "https://github.com/qompassai/phaedrus/releases/download/v0.1.0/phaedrus-mcp-0.1.0-linux-x64.mcpb",
+      "identifier": "https://github.com/qompassai/phaedrus/releases/download/v1.0.0/phaedrus-mcp-1.0.0-linux-x64.mcpb",
       "registryType": "mcpb",
       "transport": {
         "type": "stdio"
@@ -34,6 +34,6 @@
     "url": "https://github.com/qompassai/phaedrus"
   },
   "title": "Phaedrus",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "websiteUrl": "https://qompass.ai/solutions/phaedrus/"
 }
